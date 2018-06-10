@@ -6,6 +6,8 @@ public class Main {
     * Allen Higgins
     * 09/June/2018
     *
+    * Last Edited: 10/June/2018 (Part 2 and 3)
+    *
     * Part 1:
     * Check if a word is a palindrome
     * Note: A palindrome word is not the same as a palindrome sentence
